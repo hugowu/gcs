@@ -1,2 +1,2 @@
-# gcs
+# GCS
 Global Config System
